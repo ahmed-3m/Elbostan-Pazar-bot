@@ -111,3 +111,7 @@ the customer used", and human handoff/escalation flows.
 ## License
 
 MIT — see [LICENSE](LICENSE).
+
+---
+
+**By Ahmed Mohammed** — AI/ML engineer, Linz · [Portfolio](https://ahmed-3m.github.io) · [LinkedIn](https://www.linkedin.com/in/ahmed-3m/)
